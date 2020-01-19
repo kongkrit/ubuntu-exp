@@ -1,2 +1,2 @@
 # ubuntu-exp
-ubuntu experimental box
+ubuntu experimental docker box
